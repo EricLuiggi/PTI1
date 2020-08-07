@@ -1,0 +1,21 @@
+# Lines starting with '#' are comments
+
+# Ignore any file named foo.txt.
+# foo.txt
+
+# Ignore (generated) html files,
+#*.html
+
+# Ignore .csv files
+*.csv
+
+# Ignore specific notebooks
+Segment_and_Cluster_Neighborhoods_in_Toronto_Wk3_Part1-Finalv3.ipynb
+Segment_and_Cluster_Neighborhoods_in_Toronto-v1.ipynb
+
+# except foo.html which is maintained by hand.
+#!foo.html
+
+# Ignore objects and archives.
+#*.[oa]
+
